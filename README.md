@@ -1,5 +1,6 @@
 ![picture](title.png)
-Link to Leaderboard - https://datahack.analyticsvidhya.com/contest/india-ml-hiring-hackathon-2019/pvt_lb
+![Link to Leaderboard](https://datahack.analyticsvidhya.com/contest/india-ml-hiring-hackathon-2019/pvt_lb)
+
 **Approach** :
 
 I divided my solution to sections.
